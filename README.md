@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Uthpala 👋
 
-<!--
-**Uthpala2002/Uthpala2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc (Hons) Applied Statistics Undergraduate  
+📍 University of Colombo  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an aspiring Data Scientist with a strong interest in data analysis, machine learning, and statistical modeling. I enjoy working with data to uncover insights and solve real-world problems.
+
+
+## 🛠 Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning
+- Data Analysis & Visualization
+- Power BI
+- SQL (Basic)
+- Statistics (ANOVA, Regression, Hypothesis Testing)
+
+
+## 📊 Projects
+- 📌 CVD Prevention Program Analysis 
+- 📌 Customer Churn Prediction  
+- 📌 Youth Unemployment Analysis
+- 📌 Uber Ride Analytics Dashboard
+
+👉 Check my repositories for more!
+
+
+## 📜 Certifications
+- Python for Data Science, AI & Development – Coursera  
+- Data Visualization – Kaggle  
+- Intro to Machine Learning – Kaggle  
+- Intermediate Machine Learning – Kaggle  
+
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/yourusername  
+
+
+⭐ Always learning and building in Data Science!
