@@ -18,6 +18,7 @@ I am an aspiring Data Scientist with a strong interest in data analysis, machine
 
 
 ## 📊 Projects
+- 📌 Student Depression Prediction System
 - 📌 CVD Prevention Program Analysis 
 - 📌 Customer Churn Prediction  
 - 📌 Youth Unemployment Analysis
