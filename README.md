@@ -31,7 +31,8 @@ I am an aspiring Data Scientist with a strong interest in data analysis, machine
 - Python for Data Science, AI & Development – Coursera  
 - Data Visualization – Kaggle  
 - Intro to Machine Learning – Kaggle  
-- Intermediate Machine Learning – Kaggle  
+- Intermediate Machine Learning – Kaggle
+- Feature Engineering -  Kaggle
 
 
 ## 📫 Connect with Me
