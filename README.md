@@ -36,8 +36,8 @@ I am an aspiring Data Scientist with a strong interest in data analysis, machine
 
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/yourusername  
+- LinkedIn: www.linkedin.com/in/uthpala-de-silva-428045373  
+- GitHub: https://github.com/Uthpala2002 
 
 
 ⭐ Always learning and building in Data Science!
